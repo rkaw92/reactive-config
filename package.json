@@ -1,0 +1,24 @@
+{
+  "name": "reactive-config",
+  "version": "0.1.0",
+  "description": "a reactive options library for dynamically configuring your apps",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reactive",
+    "config",
+    "configuration",
+    "options",
+    "injection"
+  ],
+  "author": "Robert Kawecki <robert+npm@rkaw.pl>",
+  "license": "MIT",
+  "dependencies": {
+    "rxjs": "^5.5.6"
+  }
+}
